@@ -1,6 +1,6 @@
 # LIDAR
 
-Firmware desenvolvido para **aquisição, interpretação e validação** do sensor LiDAR X2 da YD LiDAR, como etapa de desenvolvimento anterior à integração do sistema de sensoriamento do robô *Teiú**
+Firmware desenvolvido para **aquisição, interpretação e validação** do sensor LiDAR X2 da YD LiDAR, como etapa de desenvolvimento anterior à integração do sistema de sensoriamento do robô *Teiú*
 
 O projeto teve como objetivo principal compreender o protocolo de comunicação do sensor, estruturar a recepção dos dados e desenvolver um mecanismo capaz de identificar, validar e interpretar os pacotes transmitidos pelo LiDAR.
 
